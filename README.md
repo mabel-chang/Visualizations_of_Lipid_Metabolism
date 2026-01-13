@@ -1,4 +1,4 @@
-# Visualizations of Lipid Metabolism BF550
+# Visualizations of Lipid Metabolism
 ## Overview
 The analysis applies principal component analysis (PCA) and univariate statistical methods to lipidomic datasets, providing insights into how ad libitum feeding and doxorubicin treatment influence lipid metabolism in rat jejunum and liver tissues.
 

@@ -61,7 +61,7 @@ This project was built in Python 3.9 using the following packages:
 * Download the supplementary dataset from the paper and save it as Balgoma_data.xlsx.
 * Open the notebook:
 ```
-jupyter notebook Balgoma_analysis.ipynb
+jupyter notebook main.ipynb
 ```
 * Run all cells to reproduce Figures 2B, 4A, and 4B.
   
